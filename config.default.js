@@ -63,11 +63,11 @@ var config = {
 
   // 邮箱配置
   mail_opts: {
-    host: 'smtp.126.com',
-    port: 25,
+    host: 'smtp.163.com',
+    port: 465,
     auth: {
-      user: 'club@126.com',
-      pass: 'club'
+      user: 'johnnyxyz@163.com',
+      pass: 'trymybest2013'
     }
   },
 
